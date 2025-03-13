@@ -12,7 +12,6 @@
 <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
 <img src="../views/image/PNC.png" alt="Logo" width="50" height="50">
 <span class="fs-4 ms-2 fw-bold fst-italic">Bimbingan TA</span>
-
   </a>
   <ul class="nav nav-pills">
     <li class="nav-item"><a href="home.blade.php" class="nav-link active" aria-current="page">Home</a></li>
