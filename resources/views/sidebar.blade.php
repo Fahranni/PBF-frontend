@@ -5,14 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>sidebar</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/frontend/resources/css/style.css" rel="stylesheet">
+    <link href="../css/style.css" rel="stylesheet">
 </head>
 <body>
 
 <nav class="sidebar">
 <h1 class="visually-hidden">HOME</h1>
 <a href="/" class="d-flex align-items-center text-decoration-none">
-<img src="/frontend/resources/views/image/PNC.png" alt="Logo" width="50" height="50">
+<img src="../views/image/PNC.png" alt="Logo" width="50" height="50">
 <span class="fs-4 fw-bold fst-italic ms-2">Bimbingan TA</span>
 </a>
 
@@ -26,31 +26,31 @@
 <ul class="nav nav-pills flex-column mb-auto h-full">
   <li class="nav-item">
     <a href="#" class="nav-link link-body-emphasis">
-    <img src="/frontend/resources/views/image/homee.png" alt="Icon" width="19" height="19" class="pe-none me-2">
+    <img src="../views/image/homee.png" alt="Icon" width="19" height="19" class="pe-none me-2">
       Home
     </a>
   </li>
   <li>
     <a href="dosen.blade.php" class="nav-link link-body-emphasis">
-    <img src="/frontend/resources/views/image/dosen.png" alt="Icon" width="19" height="19" class="pe-none me-2">
+    <img src="../views/image/dosen.png" alt="Icon" width="19" height="19" class="pe-none me-2">
       Dosen Pembimbing
     </a>
   </li>
   <li>
     <a href="mahasiswa.blade.php" class="nav-link link-body-emphasis">
-    <img src="/frontend/resources/views/image/student.png" alt="Icon" width="19" height="19" class="pe-none me-2">
+    <img src="../views/image/student.png" alt="Icon" width="19" height="19" class="pe-none me-2">
       Mahasiswa
     </a>
   </li>
   <li>
     <a href="tugasakhir.blade.php" class="nav-link link-body-emphasis">
-    <img src="/frontend/resources/views/image/book.png" alt="Icon" width="19" height="19" class="pe-none me-2">
+    <img src="../views/image/book.png" alt="Icon" width="19" height="19" class="pe-none me-2">
       Tugas Akhir
     </a>
   </li>
   <li>
     <a href="bimbingan.blade.php" class="nav-link link-body-emphasis">
-    <img src="/frontend/resources/views/image/kalender.png" alt="Icon" width="19" height="19" class="pe-none me-2">
+    <img src="../views/image/kalender.png" alt="Icon" width="19" height="19" class="pe-none me-2">
       Jadwal Bimbingan
     </a>
   </li>
